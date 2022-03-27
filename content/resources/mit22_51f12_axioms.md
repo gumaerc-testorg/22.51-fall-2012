@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f589b815-dee8-087a-e5c3-3e6932cc8dcf
 resourcetype: Document
 title: Axioms of Quantum Mechanics
 uid: 28ec8c6c-45ac-9405-f97c-97ac3081e34b

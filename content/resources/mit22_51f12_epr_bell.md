@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f589b815-dee8-087a-e5c3-3e6932cc8dcf
 resourcetype: Document
 title: EPR paradox, Bell inequalities
 uid: c7771dde-bd1c-5158-4218-65773148ec06

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f589b815-dee8-087a-e5c3-3e6932cc8dcf
 resourcetype: Document
 title: '22.51 Lecture slides: Neutron scattering'
 uid: 4b2c907a-ef42-7ef6-a355-2bfda9cc658d

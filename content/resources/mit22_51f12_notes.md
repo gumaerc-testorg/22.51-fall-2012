@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f589b815-dee8-087a-e5c3-3e6932cc8dcf
 resourcetype: Document
 title: '22.51 Quantum Theory of Radiation Interactions: Complete Course Notes'
 uid: 693972ce-a9cf-9da5-e4e9-e86fbc72c9e7

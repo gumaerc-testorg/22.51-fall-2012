@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f589b815-dee8-087a-e5c3-3e6932cc8dcf
 resourcetype: Document
 title: '22.51 Lecture slides: Quantization of the electromagnetic field'
 uid: ac401d6c-aad7-1477-0e21-682804743b39
