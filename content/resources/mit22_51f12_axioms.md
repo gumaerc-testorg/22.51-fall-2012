@@ -5,6 +5,7 @@ file: /courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/28ec8c6c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Axioms of Quantum Mechanics
 uid: 28ec8c6c-45ac-9405-f97c-97ac3081e34b
 ---
 This resource contains information regarding axioms of quantum mechanics.
-
