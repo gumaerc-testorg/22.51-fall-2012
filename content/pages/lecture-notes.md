@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains textbook-style course notes, a quantum mechanics
+  handout, and selected lecture slides.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f589b815-dee8-087a-e5c3-3e6932cc8dcf
 ---
@@ -11,7 +16,7 @@ Course Notes
 
 The course notes are available both as one file, and broken into chapters.
 
-[Quantum Theory of Radiation Interactions (PDF - 2.1MB)]({{< baseurl >}}/resources/mit22_51f12_notes)
+{{% resource_link 693972ce-a9cf-9da5-e4e9-e86fbc72c9e7 "Quantum Theory of Radiation Interactions (PDF - 2.1MB)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -31,7 +36,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to the course (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch1)
+{{% resource_link ce608bc7-755b-8bb3-6bc2-cbd87bb37b79 "Introduction to the course (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Mathematical formalism of quantum mechanics (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch2)
+{{% resource_link 774a0d88-3fca-9c66-0912-cc029e58669e "Mathematical formalism of quantum mechanics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +54,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Axioms of quantum mechanics (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch3)
+{{% resource_link 9cdcc3c1-e36d-a2ae-3e2f-925d5b435ab6 "Axioms of quantum mechanics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Two-level systems (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch4)
+{{% resource_link fb8b6e60-579e-7a4e-1584-e44e597c7c05 "Two-level systems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Time evolution (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch5)
+{{% resource_link 485cf9e8-ede0-0033-f1c7-d7b6eb6fecb2 "Time evolution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[Composite systems and entanglement (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch6)
+{{% resource_link 9a95eabb-21e5-4a75-aea4-ca2c1c23fccc "Composite systems and entanglement (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Mixed states (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch7)
+{{% resource_link 00e219fe-9b8a-81b6-4613-f1428e87cb00 "Mixed states (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Open quantum systems (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch8)
+{{% resource_link b24652d7-f4f6-47f0-5174-797b957bd3bf "Open quantum systems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Harmonic oscillator (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch9)
+{{% resource_link 7290342f-83e6-4ea5-32f2-0aa0c8d9a63a "Harmonic oscillator (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[The electromagnetic field (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch10)
+{{% resource_link 393ffd01-59a3-a6ca-b8b7-2eac063d33c7 "The electromagnetic field (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +126,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Perturbation theory (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch11)
+{{% resource_link 557c789e-b168-5b35-8763-22b79a3473f0 "Perturbation theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +135,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Interaction of radiation with matter (PDF)]({{< baseurl >}}/resources/mit22_51f12_ch12)
+{{% resource_link 96030309-0c48-e5e3-949b-51d18ca011c6 "Interaction of radiation with matter (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,15 +145,15 @@ TOPICS
 Handout
 -------
 
-[Axioms of quantum mechanics (PDF)]({{< baseurl >}}/resources/mit22_51f12_axioms)
+{{% resource_link 28ec8c6c-45ac-9405-f97c-97ac3081e34b "Axioms of quantum mechanics (PDF)" %}}
 
 Lecture Slides
 --------------
 
-[Introductory lecture (PDF - 1.8MB)]({{< baseurl >}}/resources/mit22_51f12_intro)
+{{% resource_link 89e151c8-b980-01bf-0cd3-d6e26b1dcaa9 "Introductory lecture (PDF - 1.8MB)" %}}
 
-[EPR paradox, Bell inequalities (PDF - 2.0MB)]({{< baseurl >}}/resources/mit22_51f12_epr_bell)
+{{% resource_link c7771dde-bd1c-5158-4218-65773148ec06 "EPR paradox, Bell inequalities (PDF - 2.0MB)" %}}
 
-[Quantization of the electromagnetic field (PDF - 2.7MB)]({{< baseurl >}}/resources/mit22_51f12_quant_em)
+{{% resource_link ac401d6c-aad7-1477-0e21-682804743b39 "Quantization of the electromagnetic field (PDF - 2.7MB)" %}}
 
-[Neutron scattering (PDF - 3.8MB)]({{< baseurl >}}/resources/mit22_51f12_neutron)
+{{% resource_link 4b2c907a-ef42-7ef6-a355-2bfda9cc658d "Neutron scattering (PDF - 3.8MB)" %}}
