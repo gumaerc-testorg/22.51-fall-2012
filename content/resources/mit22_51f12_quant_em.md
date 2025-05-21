@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding quantization of the electromagnetic
   field.
-file: /ol-ocw-studio-app/courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/ac401d6caad714770e21682804743b39_MIT22_51F12_quant_em.pdf
+file: /courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/ac401d6caad714770e21682804743b39_MIT22_51F12_quant_em.pdf
 file_size: 2832095
 file_type: application/pdf
 learning_resource_types:
