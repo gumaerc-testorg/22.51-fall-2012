@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding neutron scattering.
-file: /ol-ocw-studio-app/courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/4b2c907aef427ef6a3552bfda9cc658d_MIT22_51F12_neutron.pdf
+file: /courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/4b2c907aef427ef6a3552bfda9cc658d_MIT22_51F12_neutron.pdf
 file_size: 3996086
 file_type: application/pdf
 learning_resource_types:

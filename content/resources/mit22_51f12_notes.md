@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding quantum theory of radiation
   interactions.
-file: /ol-ocw-studio-app/courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/693972cea9cf9da5e4e9e86fbc72c9e7_MIT22_51F12_Notes.pdf
+file: /courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/693972cea9cf9da5e4e9e86fbc72c9e7_MIT22_51F12_Notes.pdf
 file_size: 2253490
 file_type: application/pdf
 learning_resource_types:
