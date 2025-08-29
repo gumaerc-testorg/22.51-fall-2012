@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on the Einstein Podolsky Rosen (EPR) paradox, Bell
   inequalities, entangled pair and traveler pair experiments, realism, and locality.
-file: /courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/c7771ddebd1c5158421865773148ec06_MIT22_51F12_epr_bell.pdf
+file: /ol-ocw-studio-app/courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/c7771ddebd1c5158421865773148ec06_MIT22_51F12_epr_bell.pdf
 file_size: 2092356
 file_type: application/pdf
 learning_resource_types:
